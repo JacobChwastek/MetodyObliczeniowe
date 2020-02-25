@@ -74,12 +74,12 @@ preinstall:
 CMakeFiles/MOProjekty.dir/all:
 	$(MAKE) -f CMakeFiles/MOProjekty.dir/build.make CMakeFiles/MOProjekty.dir/depend
 	$(MAKE) -f CMakeFiles/MOProjekty.dir/build.make CMakeFiles/MOProjekty.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/jakubchwastek/Pulpit/MOProjekty/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target MOProjekty"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/jakubchwastek/Pulpit/MOProjekty/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target MOProjekty"
 .PHONY : CMakeFiles/MOProjekty.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/MOProjekty.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/jakubchwastek/Pulpit/MOProjekty/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/jakubchwastek/Pulpit/MOProjekty/cmake-build-debug/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/MOProjekty.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/jakubchwastek/Pulpit/MOProjekty/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/MOProjekty.dir/rule

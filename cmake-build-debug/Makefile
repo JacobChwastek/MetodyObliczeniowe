@@ -150,6 +150,33 @@ Projekt1/Program1.cpp.s:
 	$(MAKE) -f CMakeFiles/MOProjekty.dir/build.make CMakeFiles/MOProjekty.dir/Projekt1/Program1.cpp.s
 .PHONY : Projekt1/Program1.cpp.s
 
+Projekt2/Program2.o: Projekt2/Program2.cpp.o
+
+.PHONY : Projekt2/Program2.o
+
+# target to build an object file
+Projekt2/Program2.cpp.o:
+	$(MAKE) -f CMakeFiles/MOProjekty.dir/build.make CMakeFiles/MOProjekty.dir/Projekt2/Program2.cpp.o
+.PHONY : Projekt2/Program2.cpp.o
+
+Projekt2/Program2.i: Projekt2/Program2.cpp.i
+
+.PHONY : Projekt2/Program2.i
+
+# target to preprocess a source file
+Projekt2/Program2.cpp.i:
+	$(MAKE) -f CMakeFiles/MOProjekty.dir/build.make CMakeFiles/MOProjekty.dir/Projekt2/Program2.cpp.i
+.PHONY : Projekt2/Program2.cpp.i
+
+Projekt2/Program2.s: Projekt2/Program2.cpp.s
+
+.PHONY : Projekt2/Program2.s
+
+# target to generate assembly for a file
+Projekt2/Program2.cpp.s:
+	$(MAKE) -f CMakeFiles/MOProjekty.dir/build.make CMakeFiles/MOProjekty.dir/Projekt2/Program2.cpp.s
+.PHONY : Projekt2/Program2.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... Projekt1/Program1.o"
 	@echo "... Projekt1/Program1.i"
 	@echo "... Projekt1/Program1.s"
+	@echo "... Projekt2/Program2.o"
+	@echo "... Projekt2/Program2.i"
+	@echo "... Projekt2/Program2.s"
 .PHONY : help
 
 

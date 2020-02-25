@@ -90,6 +90,9 @@
 		<Unit filename="/home/jakubchwastek/Pulpit/MOProjekty/Projekt1/Program1.cpp">
 			<Option target="MOProjekty"/>
 		</Unit>
+		<Unit filename="/home/jakubchwastek/Pulpit/MOProjekty/Projekt2/Program2.cpp">
+			<Option target="MOProjekty"/>
+		</Unit>
 		<Unit filename="/home/jakubchwastek/Pulpit/MOProjekty/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
