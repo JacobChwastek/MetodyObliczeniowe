@@ -22,8 +22,6 @@ public:
         cout << "Mantysa:" << M << endl;
     }
 
-
-
     static void getFloatInfo()
     {
         int m_f = 0; // bit count for float
@@ -46,10 +44,10 @@ public:
         double e_d;  // double epsilon
 
         // DOUBLE:
-        e_d = 1.L;
-        while ((.5L * e_d + 1.L) > 1)
+        e_d = 1;
+        while ((.5 * e_d + 1) > 1)
         {
-            e_d *= .5L;
+            e_d *= .5D;
             m_d++;
         }
         cout << "Liczba bitow mantysy dla typu double: " << m_d << endl
