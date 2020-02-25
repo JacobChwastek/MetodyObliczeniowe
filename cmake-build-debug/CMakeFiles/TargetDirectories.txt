@@ -1,0 +1,3 @@
+/home/jakubchwastek/Pulpit/MOProjekty/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jakubchwastek/Pulpit/MOProjekty/cmake-build-debug/CMakeFiles/MOProjekty.dir
+/home/jakubchwastek/Pulpit/MOProjekty/cmake-build-debug/CMakeFiles/edit_cache.dir

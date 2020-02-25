@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jakubchwastek/Pulpit/MOProjekty/Projekt1/MyMath.h
+typeinfo
+-
+string
+-
+
+/home/jakubchwastek/Pulpit/MOProjekty/Projekt1/Program1.cpp
+iostream
+-
+ncurses.h
+-
+cfloat
+-
+cstdio
+-
+MyMath.h
+/home/jakubchwastek/Pulpit/MOProjekty/Projekt1/MyMath.h
+

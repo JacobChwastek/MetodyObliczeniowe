@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/MOProjekty.dir/Projekt1/Program1.cpp.o  -o MOProjekty 
